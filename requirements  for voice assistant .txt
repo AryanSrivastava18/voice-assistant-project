@@ -1,0 +1,15 @@
+Speech Recognition (Voice Input)
+speechrecognition → mic se voice ko text me convert karta hai
+pyaudio → microphone access ke liye
+Text-to-Speech (Voice Output)
+pyttsx3 → offline TTS (no internet needed)
+gtts → Google Text-to-Speech (online)
+os → system commands
+webbrowser → browser open karne ke liye
+datetime → time/date features
+wikipedia → info fetch karne ke liye
+pywhatkit → YouTube/play/search automation
+Extra (Optional but Useful)
+playsound → audio play karne ke liye
+sounddevice → audio input/output
+pygame → sound/music control
